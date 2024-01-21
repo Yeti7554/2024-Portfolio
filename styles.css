@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+div {
+    color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+}
+
+.titleIntro {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.skillCard {
+    padding: 5px;
+    border-radius: 2px;
+    border: 1px solid #333333;
+    background-color: #232323;
+    box-shadow: 0 2px 3px #0000003d;
+}
+
+.experienceCard {
+    display: flex;
+}
